@@ -1,0 +1,50 @@
+#one {
+  width: 30%;
+  margin: 0 30% 0 3.5%;
+}
+#two {
+  width: 30%;
+  margin: 0 30% 0 3.5%;
+}
+#three {
+  width: 30%;
+  margin: 0 30% 0 6%;
+}
+#four {
+  width: 30%;
+  margin: 0 30% 0 6%;
+}
+
+#state {
+  width: 30%;
+  margin: 0 30% 0 7.4%;
+}
+#country {
+  width: 30%;
+  margin: 0 30% 0 5%;
+}
+#one1 {
+  width: 30%;
+  margin: 0 30% 0 5%;
+}
+table,
+td,
+th {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td {
+  text-align: center;
+}
+#wrapper {
+  max-width: 940px;
+  padding: 0 5px;
+
+  margin-left: auto;
+  margin-right: auto;
+}
